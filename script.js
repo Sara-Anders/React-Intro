@@ -9,9 +9,9 @@ const info = [
   { title: 'Week 3 JS Quiz', detail: 'Learning about Events and Objects of Javascript, created a quiz that has the user input an answer to a question, using to create an interactive experiance using logic and control structures ', image_trail: 'images/quiz.png'},
   { title: 'Week 7 JQuery Plug-ins', detail: 'Learn to create jQuery plugins using object-oriented JavaScript code. Learn to research, evaluate and integrate multiple jQuery plugins to accomplish desired user experience.', image_trail: 'images/plugins.png' },
   { title: 'Mid-Term Project Google Maps App', detail: 'Working with dynamic data loaded from external JSON files. Worked with asynchronous events and JavaScript callback function. Created mobile-ready responsive interfaces using JavaScript, HTML and CSS.Respond to user events with function-based code blocks.', image_trail: 'images/midterm.png' },
-  { title: 'Week 11 Basic Data Visualizations', detail: ' Developed data visualizations using external JSON data. Learned how JavaScript can command the browser to create visual graphics in HTML5 canvas elements.', image_trail: 'images/graph.png' },
-  { title: 'Sally', detail: 'Developing highly interactive user experiences using the Phaser JavaScript library. Learned how JavaScript can command the browser to create games.', image_trail: 'images/game.png' },
-  { title: 'Sally', detail: 'Jane', image_trail: 'images/quiz.png' },
+  { title: 'Week 11 Basic Data Visualizations', detail: 'Developed data visualizations using external JSON data. Learned how JavaScript can command the browser to create visual graphics in HTML5 canvas elements.', image_trail: 'images/graph.png' },
+  { title: 'Week 12 Advanced Data Visualizations', detail: 'Created a data visualization using the D3 library that supports user interaction using hover and click interaction elements, uses SVG elements and loads data from an external JSON file. ', image_trail: 'images/graph2.png' },
+  { title: 'Sally', detail:'yayaya' , image_trail: 'images/game.png' },
 ];
 
 //define react page component with vanilla JS
